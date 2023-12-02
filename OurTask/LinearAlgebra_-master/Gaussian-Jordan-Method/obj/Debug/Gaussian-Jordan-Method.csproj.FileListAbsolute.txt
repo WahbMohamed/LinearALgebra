@@ -1,0 +1,9 @@
+C:\Users\First\Downloads\LinearAlgebra_-master\LinearAlgebra_-master\Gaussian-Jordan-Method\bin\Debug\ConsoleApplication6.exe.config
+C:\Users\First\Downloads\LinearAlgebra_-master\LinearAlgebra_-master\Gaussian-Jordan-Method\bin\Debug\ConsoleApplication6.exe
+C:\Users\First\Downloads\LinearAlgebra_-master\LinearAlgebra_-master\Gaussian-Jordan-Method\bin\Debug\ConsoleApplication6.pdb
+C:\Users\First\Downloads\LinearAlgebra_-master\LinearAlgebra_-master\Gaussian-Jordan-Method\obj\Debug\Gaussian-Jordan-Method.csproj.AssemblyReference.cache
+C:\Users\First\Downloads\LinearAlgebra_-master\LinearAlgebra_-master\Gaussian-Jordan-Method\obj\Debug\ConsoleApplication6.MainGUI.resources
+C:\Users\First\Downloads\LinearAlgebra_-master\LinearAlgebra_-master\Gaussian-Jordan-Method\obj\Debug\Gaussian-Jordan-Method.csproj.GenerateResource.cache
+C:\Users\First\Downloads\LinearAlgebra_-master\LinearAlgebra_-master\Gaussian-Jordan-Method\obj\Debug\Gaussian-Jordan-Method.csproj.CoreCompileInputs.cache
+C:\Users\First\Downloads\LinearAlgebra_-master\LinearAlgebra_-master\Gaussian-Jordan-Method\obj\Debug\ConsoleApplication6.exe
+C:\Users\First\Downloads\LinearAlgebra_-master\LinearAlgebra_-master\Gaussian-Jordan-Method\obj\Debug\ConsoleApplication6.pdb
